@@ -1,0 +1,3 @@
+../modbus/portevent.c:32:1:xMBPortEventInit	4	static
+../modbus/portevent.c:39:1:xMBPortEventPost	16	static
+../modbus/portevent.c:47:1:xMBPortEventGet	24	static

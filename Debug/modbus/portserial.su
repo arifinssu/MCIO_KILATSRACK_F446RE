@@ -1,0 +1,4 @@
+../modbus/portserial.c:37:1:vMBPortSerialEnable	16	static
+../modbus/portserial.c:57:1:xMBPortSerialInit	16	static
+../modbus/portserial.c:67:1:xMBPortSerialPutByte	16	static
+../modbus/portserial.c:76:1:xMBPortSerialGetByte	16	static
